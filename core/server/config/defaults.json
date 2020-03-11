@@ -97,7 +97,7 @@
         }
     },
     "imageOptimization": {
-        "resize": true
+        "resize": false
     },
     "compress": true,
     "preloadHeaders": false,

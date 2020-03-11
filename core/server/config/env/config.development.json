@@ -7,6 +7,29 @@
         },
         "debug": false
     },
+    "storage": {
+        "active": "ghost-storage-cloudinary",
+        "ghost-storage-cloudinary": {
+            "useDatedFolder": false,
+            "auth": {
+                "cloud_name": "dm2fpy5vg",
+                "api_key": "439896459917522",
+                "api_secret": "bO4amxRYxoTtlslCSEI2sZfRO3Q"
+            },
+            "upload": {
+                "use_filename": true,
+                "unique_filename": false,
+                "overwrite": false,
+                "folder": "blog-images",
+                "tags": ["blog"]
+            },
+            "fetch": {
+                "quality": "auto",
+                "secure": true,
+                "cdn_subdomain": true
+            }
+        }
+    },
     "paths": {
         "contentPath": "content/"
     },

@@ -76,6 +76,7 @@
     "express-session": "1.17.0",
     "extract-zip": "1.6.7",
     "fs-extra": "8.1.0",
+    "ghost-cloudinary-store": "^3.3.0",
     "ghost-ignition": "3.1.0",
     "ghost-storage-base": "0.0.3",
     "glob": "7.1.6",
